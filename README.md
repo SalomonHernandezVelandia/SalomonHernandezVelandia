@@ -51,7 +51,7 @@ This research presents a comparative evaluation of generative and reconstruction
     <img src="https://img.shields.io/badge/CCC19-19 Congreso Colombiano de Computación – 19CCC-6A0DAD?logo=adobeacrobatreader&logoColor=white">
   </a>
   <br>
-  <a href="assets/Certificate__SalomonHernandezVelandia.pdf">
+  <a href="assets/Certificate_SIPAIM_SalomonHernandezVelandia.pdf">
     <img src="https://img.shields.io/badge/SIPAIM-21st International Symposium on Medical Information Processing and Analysis-8E44AD?logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
