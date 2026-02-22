@@ -32,7 +32,7 @@ This research presents a comparative evaluation of generative and reconstruction
 
 <h2> Certifications! <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="35"> </h2>
 
-### 🎓 Online Certifications — Coursera
+### 🎓 Online Certifications — Stanford Online
 
 <p align="left">
   <a href="https://coursera.org/share/8fe475ad4c93c35c2541cfe543a44650">
